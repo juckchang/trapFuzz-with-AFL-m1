@@ -1,0 +1,6 @@
+[submodule "AFLplusplus"]
+	path = AFLplusplus
+	url = git@github.com:AFLplusplus/AFLplusplus.git
+[submodule "llvm-projectls"]
+	path = llvm-projectls
+	url = https://github.com/llvm/llvm-project
